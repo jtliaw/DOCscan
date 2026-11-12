@@ -150,7 +150,8 @@ DocScan/
 
 
 <p align="center">
-  <img src="docs/icon.png" width="128" alt="DocScan icon">
+ <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/ad7fe250-154f-4919-ae2d-947c7bb83b4d" />
+
 </p>
 
 <h1 align="center">DocScan</h1>
