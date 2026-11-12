@@ -15,7 +15,8 @@
 </p>
 
 <p align="center"><a href="README.md">English</a> | <b>简体中文</b></p>
-
+---
+防毒网站没有病毒,自己可以到这一个网址看一看：https://www.virustotal.com/gui/home/upload
 ---
 
 ## 功能
